@@ -6,12 +6,12 @@ Este projeto foi desenvolvido como parte da Imersão Dev, inspirado no Spotify.
 - HTML
 - CSS
 - JavaScript
+  
+![image](https://github.com/user-attachments/assets/0134827f-1e63-4d05-8622-a915f62491d4)
 
-  # Imersão Spotify 🎵
 
 
-## Demo 🔗
-[Acesse aqui](https://seu-usuario.github.io/imers-o-spotify/)
+
 
 
 
